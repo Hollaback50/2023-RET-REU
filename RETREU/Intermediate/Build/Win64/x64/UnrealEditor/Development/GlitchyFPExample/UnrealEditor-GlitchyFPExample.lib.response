@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GlitchyFPExample.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\GlitchyFPExampleEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.InclOrderUnreal5_1.h.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExample.init.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleCharacter.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleGameMode.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleProjectile.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\TP_PickUpComponent.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\TP_WeaponComponent.gen.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExample.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleCharacter.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleGameMode.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\GlitchyFPExampleProjectile.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\TP_PickUpComponent.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\TP_WeaponComponent.cpp.obj"
+"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\Default.rc2.res"
+/OUT:"C:\Users\gasma\OneDrive\Documents\Unreal Projects\GlitchyFPExample\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlitchyFPExample\UnrealEditor-GlitchyFPExample.lib"

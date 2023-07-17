@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\gasma\\OneDrive\\Documents\\Unreal Projects\\GlitchyFPExample\\Source\\GlitchyFPExample\\GlitchyFPExample.Build.cs",
+		"C:\\Users\\gasma\\OneDrive\\Documents\\Unreal Projects\\GlitchyFPExample\\Source\\GlitchyFPExample.Target.cs",
+		"C:\\Users\\gasma\\OneDrive\\Documents\\Unreal Projects\\GlitchyFPExample\\Source\\GlitchyFPExampleEditor.Target.cs"
+	],
+	"EngineVersion": "5.2.1"
+}

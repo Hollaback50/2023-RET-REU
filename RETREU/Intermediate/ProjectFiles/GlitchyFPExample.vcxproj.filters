@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GlitchyFPExample.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GlitchyFPExample.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GlitchyFPExampleEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GlitchyFPExample">
+      <UniqueIdentifier>{BCFD9609-35DE-3C50-9418-52DDE21713BC}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GlitchyFPExample\GlitchyFPExample.Build.cs">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\GlitchyFPExample.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\GlitchyFPExample.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleCharacter.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleCharacter.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleGameMode.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleGameMode.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleProjectile.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\GlitchyFPExampleProjectile.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\TP_PickUpComponent.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\TP_PickUpComponent.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GlitchyFPExample\TP_WeaponComponent.cpp">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GlitchyFPExample\TP_WeaponComponent.h">
+      <Filter>Source\GlitchyFPExample</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

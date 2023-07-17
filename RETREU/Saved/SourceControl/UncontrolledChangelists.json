@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/0M/LYKU8MRWM4BO3O1FDZBG2U.uasset",
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/AJ/2XZ3RUK0LFB63FVNQE7P5R.uasset",
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/OJ/9MHHMH0XHVZ04YDZ7NPC32.uasset",
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/VP/FVTPO8KZ0WPMCSQLVJE6O9.uasset",
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/51/6JKB4DNGJP09QUHY23FHRV.uasset",
+				"C:/Users/gasma/OneDrive/Documents/GodotGames/MenuBasedGodotExample/2023-RET-REU/RETREU/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/gasma/OneDrive/Documents/Unreal Projects/GlitchyFPExample/Content/StarterContent/Audio/Collapse01.uasset"
+			]
+		}
+	]
+}

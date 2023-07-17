@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GlitchyFPExample",
+			"Path": "C:\\Users\\gasma\\OneDrive\\Documents\\Unreal Projects\\GlitchyFPExample\\Source\\GlitchyFPExample.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GlitchyFPExampleEditor",
+			"Path": "C:\\Users\\gasma\\OneDrive\\Documents\\Unreal Projects\\GlitchyFPExample\\Source\\GlitchyFPExampleEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\gasma\\onedrive\\documents\\unreal projects\\glitchyfpexample\\intermediate\\build\\win64\\unrealeditor\\inc\\glitchyfpexample\\uht\\glitchyfpexampleprojectile.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\gasma\\onedrive\\documents\\unreal projects\\glitchyfpexample\\intermediate\\build\\win64\\x64\\glitchyfpexampleeditor\\development\\engine\\sharedpch.engine.shadowerrors.inclorderunreal5_1.h.pch",
+        "Includes": [
+            "c:\\users\\gasma\\onedrive\\documents\\unreal projects\\glitchyfpexample\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\glitchyfpexample\\definitions.glitchyfpexample.h",
+            "c:\\users\\gasma\\onedrive\\documents\\unreal projects\\glitchyfpexample\\source\\glitchyfpexample\\glitchyfpexampleprojectile.h",
+            "c:\\users\\gasma\\onedrive\\documents\\unreal projects\\glitchyfpexample\\intermediate\\build\\win64\\unrealeditor\\inc\\glitchyfpexample\\uht\\glitchyfpexampleprojectile.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
