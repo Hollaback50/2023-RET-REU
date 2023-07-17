@@ -1,3 +1,8 @@
-Hello
-this is a test
-Ha
+-Push blocks where they should be 
+-Create a small map (later create cherry hallway)
+
+Other things
+remake char controllers
+
+hard mode
+add enemies (AI) 
